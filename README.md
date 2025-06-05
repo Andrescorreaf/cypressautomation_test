@@ -46,6 +46,12 @@ $npm run not_head
 * Usa ```data-testid para``` localizar elementos de manera robusta.
 * Aprovecha ```beforeEach()``` para configuración común.
 * Usa ```cy.intercept()``` para simular respuestas si es necesario.
+  
+## 🧑‍💻 Autor
+Andres Correa
+
+* 📧 felipefranco989@gmail.com
+* 🌐 github.com/Andrescorreaf
 
 ## 📄 Licencia
 
